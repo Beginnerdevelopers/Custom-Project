@@ -1,0 +1,172 @@
+This is a personal portfolio made by codewithsadee
+
+https://prod.liveshare.vsengsaas.visualstudio.com/join?0D57B5302506A6B1FDEE09DD05B6322C0EFE
+
+
+
+#---------- HEADER ----------#
+
+alt = logo
+
+<span class="material-symbols-outlined dark" aria-hidden="true"> dark_mode </span>
+
+<span class="material-symbols-outlined light" aria-hidden="true"> light_mode </span>
+
+
+
+#---------- HERO ----------#
+
+alt = Ahmed Khalid
+
+Software Engineer
+
+Ahmed Khalid
+
+Lorem ipsum dolor sit amet consectetur. Quam ut feugiat ut porta morbi lobortis tristique.
+
+<span class="material-symbols-outlined" aria-hidden="true"> mail </span>
+khalid@techgulf.com
+
+<span class="material-symbols-outlined" aria-hidden="true"> call </span>
++213908539206
+
+
+
+#---------- ABOUT CARD ----------#
+
+About
+
+A passionate software engineer with a strong background in Computer Science.
+
+<span class="material-symbols-outlined" aria-hidden="true"> location_on </span>
+Cairo, Egypt
+
+<span class="material-symbols-outlined" aria-hidden="true"> work </span>
+TechGulf Solutions
+
+<span class="material-symbols-outlined" aria-hidden="true"> captive_portal </span>
+https://example.com
+
+
+
+#---------- PRIMARY TAB ----------#
+
+Projects
+
+Resume
+
+Contact
+
+
+
+#---------- PROJECT ----------#
+
+alt = Pixstock - Stock Media App
+
+Web App
+Pixstock - Stock Media App
+
+alt = Cook.io - Recipe App
+
+Web App
+Cook.io - Recipe App
+
+alt = GitFinder - Github User Finder
+
+Web App
+GitFinder - Github User Finder
+
+alt = Weatherio - Live Weather App
+
+Web App
+Weatherio - Live Weather App
+
+alt = Tvflix - Netflix Clone 2.0
+
+Web App
+Tvflix - Netflix Clone 2.0
+
+alt = Travelia - Travel Website
+
+Website
+Travelia - Travel Website
+
+
+
+#---------- RESUME ----------#
+
+Experience
+
+Software Engineer, TechGulf Solutions
+2018 - Present
+
+Led the development of a customer management system, resulting in improved efficiency and streamlined processes.
+
+Software Developer Intern, ByteOasis Corporation
+2016 - 2017
+
+Assisted in the development and testing of a mobile application for internal use.
+
+Education
+
+Certification in Web Development with React.js (FreeCodeCamp Certification)
+2015 - 2016
+
+Relevant Coursework: Data Structures, Algorithms, Database Management
+2014 - 2013
+
+Bachelor of Science in Computer Science, Alexandria University
+2010 - 2014
+
+Skills and Technologies
+
+HTML5
+CSS3
+JavaScript
+React.js
+Node.js
+GitHub
+MongoDB
+VS Code
+
+
+
+
+#---------- CONTACT ----------#
+
+Contact Info
+
+<span class="material-symbols-outlined" aria-hidden="true"> mail </span>
+
+Mail Us
+khalid@techgulf.com
+khalid@service.com
+
+<span class="material-symbols-outlined" aria-hidden="true"> call </span>
+
+Contact Us
++2382395632498
++2323982609238
+
+<span class="material-symbols-outlined" aria-hidden="true"> location_on </span>
+
+Address
+Al Azbakeya, Cairo Governorate 4320001, Egypt
+
+Social Info
+
+Let’s Work Together.
+
+Name*
+Email*
+Subject
+Message*
+
+Send Message
+
+
+
+
+#---------- FOOTER ----------#
+
+Copyright 2023. All right reserved by codewithsadee
